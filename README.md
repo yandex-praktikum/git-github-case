@@ -1,3 +1,3 @@
 # git-github-case
 
-Repository for !!!
+Repository for nothing
