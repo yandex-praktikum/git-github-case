@@ -1,3 +1,7 @@
 # git-github-case
 
-Repository for rem
+<<<itory for rem
+=======
+Repository for remote
+
+>>>>>>> 61e1c01 (nov)
