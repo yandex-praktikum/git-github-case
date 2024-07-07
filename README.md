@@ -1,3 +1,3 @@
 # git-github-case
 
-Repository for nothing
+Repository for mistake
