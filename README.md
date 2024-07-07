@@ -1,3 +1,3 @@
 # git-github-case
 
-Repository for all rihy
+Repository for remote
